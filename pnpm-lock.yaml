@@ -1,0 +1,2394 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@scdb/crispy-tribble':
+    specifier: ^1.0.0
+    version: 1.0.0
+  '@scdb/curly-robot':
+    specifier: ^1.0.0
+    version: 1.0.0
+  '@scdb/didactic-spoon':
+    specifier: ^1.0.0
+    version: 1.0.0
+  '@scdb/friendly-octo-couscous':
+    specifier: ^1.0.4
+    version: 1.0.4
+  '@scdb/glowing-potato':
+    specifier: ^1.0.0
+    version: 1.0.0
+  '@scdb/silver-octo-meme':
+    specifier: ^1.0.1
+    version: 1.0.1
+  '@scdb/simple-http':
+    specifier: ^1.0.7
+    version: 1.0.7
+  '@scdb/urban-octo-garbanzo':
+    specifier: ^1.0.0
+    version: 1.0.0
+  axios:
+    specifier: ^1.6.8
+    version: 1.6.8
+
+packages:
+
+  /@lbnqduy/cautious-happiness@1.0.0:
+    resolution: {integrity: sha512-GvMmf+RPQBkneeaKatPXE3nKX5y2yypW+QM2zHGYr9iX/J2uXNrhv2kYmeztGMWKXrauUabBR1PMAwiAeUM6cA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/congenial-waffle@1.0.0:
+    resolution: {integrity: sha512-bbBEzTa91jY6hBNJnwVxuhxMT0J4mR/mbVivXr9uyiWgT79aw337uZbC9ovOh05IlJxlQNEDglD/pkvUeMiyyw==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/curly-octo-rotary-phone@1.0.0:
+    resolution: {integrity: sha512-RPgPf5PpzjqbQiUmL0jpFYe9LuRgmoEWgJ+vtEA4yaVkTTgh8dy7zh4zbYc3eFA5GsfbfqVt9ctyaUUayA5khg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/didactic-waffle@1.0.0:
+    resolution: {integrity: sha512-SoMbT9upmiDhDUAABUxojCdn4ZhdzXy6JBlYBAxFVBtxAA9RA/UEjfUf3wdjS1AZUhmztsvKbBDPsToujPUVLQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/effective-system@1.0.0:
+    resolution: {integrity: sha512-GAD2i8JGVYNoMNqadqLYqYfKwTdZSAynmgGvYVI9g2jhVbruUnknnBk/thRJ3MPjm8pDe+5FhdDqdVFU05npVg==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/fantastic-doodle@1.0.1:
+    resolution: {integrity: sha512-9HwP6c0MC2oSS6auEJbhqFIupIFnvislsH7NORFeTAjpKmx3hoVIaGuvSrcfkf5INjjIGayTflgaT0YfYrnKhg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/fluffy-meme@1.0.0:
+    resolution: {integrity: sha512-/4KfojL/10OrtaVhyh7pWw6iPSmiEqoyCiBaqPKMspAtzkMA1XGm8CVrVBy5BX50Kk6uxGwVRZbEWR/HswDNLw==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/redesigned-tribble@1.0.0:
+    resolution: {integrity: sha512-yTtvTZ2tZyb2+5Q6QxCzb16jXI77Vmyb1S8mgU3bxbhZcFKyXDPtWHoOePG+3oB24W8YHUscPBNcypP+CwEqeA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/refactored-fiesta@1.0.0:
+    resolution: {integrity: sha512-ZKwTRk0Dyl6msJBvt6pKJpr9Nhau7ZEUx6AYx2LrEmPUhzJIDgwKks6Gs9cEydImNg0vayoj3mGbeHF25s8GvQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy/stunning-waffle@1.0.0:
+    resolution: {integrity: sha512-+Nhrm0rj/KpSWGVAMf63yxlvBudsxLrllhdWRjY6vupxXEC31FC2n16638vE1u6QaIsn4IMyV95W71PDlZk84Q==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/expert-meme@1.0.0:
+    resolution: {integrity: sha512-A60ccfZ3EQARAyVtLFeoPh4df7E0ukTYQJsgL/Kc7Ybm0iDCKlZd1EeqC8qaq1X8IcgXSRBONZmMxHGfVuGLBg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/fluffy-couscous@1.0.0:
+    resolution: {integrity: sha512-1Cx+l4rJtWFtqelMI+qy0Ug7XwCkR3+CUUsl/gHFicViqrm8NdIOpEyu4uDnZ0cDFqOYhloSsxtpvB1WfWm6+Q==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/legendary-bassoon@1.0.0:
+    resolution: {integrity: sha512-mPxV7fThNpdvEH+XhqX3i6RROOIzLBaUmdBQX5WYtXssCSAbVa7kKcUqLw8BPpoc2NvR6n5VdBI6MBQ0qO3wEQ==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/probable-rotary-phone@1.0.0:
+    resolution: {integrity: sha512-Bxh6MFZtViz56hGAZknsTU0NMctMKpa0ubZp2bYd1zO6xDq+FRLkzjlphvBMI79QRCVtRj0hIVAm4qxjGrt8jw==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/scaling-octo-happiness@1.0.0:
+    resolution: {integrity: sha512-AheBbe3Dl6Wt60A+yFoYbBrrmQYyRhPLaRFudguF7nAT2Yk4ASkyrfarsYeDHP8x2CYJ/OsfwVaDLzArcximIA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/stunning-enigma@1.0.0:
+    resolution: {integrity: sha512-kt6sbeDL48gxHCs8/o8ZycZgIDLgs9apaEbQ/1elr93qGT5eoa8Fq5SloTKlXiKgJ3mRknu7JiFM5Dd5C6u+sQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/super-duper-eureka@1.0.0:
+    resolution: {integrity: sha512-musV7fJCI34AHWloFQ1Ywxj7grvGNfUGrhWegfOznkGfqZuQOkmfR6LQS5NrXEEQCrX6Sigukxe3BNnXqaZSdA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/upgraded-octo-computing-machine@1.0.0:
+    resolution: {integrity: sha512-O1DRRbNLaTgdUkfiUVjaZZ3tnN1dNrVxj5dP++0q7zQHxz4TIofEI+P1dB+ssXNqBLXEaPOKai0sJsDnp9s7hA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/verbose-palm-tree@1.0.0:
+    resolution: {integrity: sha512-rJqXmtQ6HDosCqi5YFJ6AxIPwz6g9FCTQsTk1hD29YjzNKqlalLQGU0LIWfMf4idye8blS2A/GGzidAbHM+42g==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@lbnqduy180500/vigilant-octo-waddle@1.0.0:
+    resolution: {integrity: sha512-LxUo09YKzgHqwW8ycghskqbKsjOl3JFFKSK0mCZ5j7lVr88VflRVU3q91mBDOPEI7wY+o/ozFK0MALSr/A0bwg==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@libphamton/api-chatbot@1.0.1:
+    resolution: {integrity: sha512-kwrRj+b20rO+x1JmT7dmDCj1kM4Qy2Ra0SI6PoBYeO2bjOqhI+2mR2DSc/jEjx86FDUcK7UG3dy4gUV02VMG4Q==}
+    dependencies:
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@libphamton/api-client-x@1.2.1:
+    resolution: {integrity: sha512-ffgyIkSrSBUWXn+Y2rx23mx8MAxAwaeISwDBrmb6e68f3rSnFlRB17gmhGNhLHJRglKJd2dKseDnSgI+hJwB+Q==}
+    dependencies:
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': 1.0.9
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@libphamton/api-openai@1.0.3:
+    resolution: {integrity: sha512-tEa/bSaNx3PbEreKeRJGYhBK2ggBn016gY4gGNnMa0n2xJQ35Wi0bvmuLWkbVB2t8t8VQHw5zUh6p6eukRq4fg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@libphamton/chatfanpage@1.0.1:
+    resolution: {integrity: sha512-uib+oDAfiFAeOY8iiYpIibwJGTv92wKOUEBlPNyefwBTYCxi4i8ktZu025gKykGCEQh5nmdomzrHlkl7+9oZVg==}
+    dependencies:
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@libphamton/client-fb@1.0.9:
+    resolution: {integrity: sha512-Cosw4G6emXi+a7YSNIaVYytffpT6oNFF6rREQ0qved9IrtK8V1XT+ugrHjyLm3gzqE/+Gi4105lxd/IX/qv4mw==}
+    dependencies:
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@libphamton/fb-group@1.0.1:
+    resolution: {integrity: sha512-vXPvFFGHvD6/FbJ5DeRLjvWkq1d1hdEbrzSU85Zq5jsLp5wnKT26pAQFIRR3aDpQU26Mdp/td8Gs/fWM4Ib+/w==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@libphamton/fb-group@1.0.2:
+    resolution: {integrity: sha512-6p6oH8P7/lJOoo2xFVQxFdhgjdmfePHH3YBredXME7BpYBuCzlNZFcq2ngH3QIV1ZxcB5eNLtcJT6Bkals6mGg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-gmail-ai@1.0.6:
+    resolution: {integrity: sha512-wJXOPrTvmjoYu1fOA2LOCvc8P8PxgOknc3S2qTr4UPF2VvFH4CPo+XGV1DxcqgDtc9NFF2BmzHVTVw0LswGcTA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-gmail@1.0.4:
+    resolution: {integrity: sha512-kSdTpm3NEPzuhWA8cCv5gP3QhRpc4BDGG3BwQsEozATMcSC5mE2IBJI5MdHku6kht+bAU8MpQq6IgT7pPPeYbg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-send-email@1.0.6:
+    resolution: {integrity: sha512-8jbQrDZcWPkdlIzHQMvQgkh3CV8tVRKikI5ZHXrvG1uLni6fN/9Ccx4yjP1YaiER+ofUpSk+5JieeJq1b287eQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-send-gmail@1.0.6:
+    resolution: {integrity: sha512-tUQwSK219NtIhwsT4AOOaQ3k12ZJt0aC3zkiMmR2TxUgCYNcj7sEi9qGkesumE2XNGfkDqI9NviCh6jtyHpP/g==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@nqduy1805/api-gmail': 1.0.4
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-send-skye@1.0.1:
+    resolution: {integrity: sha512-Hp933Yf73YFNtebATM8VmgmWmS2iA4PjgdwdSbVNbROHh5k69viYdwcS2trnACVlB66i+x3TpgHQTzmJCx3b7Q==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/effective-system': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy/stunning-waffle': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/fluffy-couscous': 1.0.0
+      '@lbnqduy180500/legendary-bassoon': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@lbnqduy180500/vigilant-octo-waddle': 1.0.0
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-send-sms@1.0.1:
+    resolution: {integrity: sha512-iepbN99qOX8LKftxGmzgilj4faMx0Aky3mbj7Y3Q5jRhNEycFIUV1fhityEOuGrzRa87+uyCt3BFv/Leok7//A==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/effective-system': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy/stunning-waffle': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/fluffy-couscous': 1.0.0
+      '@lbnqduy180500/legendary-bassoon': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@lbnqduy180500/vigilant-octo-waddle': 1.0.0
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-send-viber@1.0.1:
+    resolution: {integrity: sha512-C4u5x/PKbabwAbbCA60rXDcKdQ5LPPR75bw8d6dzwivsAdGlz9dKYoi3AdKe+al4ED88tbf1uhNiZk9nhERRWg==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/effective-system': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy/stunning-waffle': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/fluffy-couscous': 1.0.0
+      '@lbnqduy180500/legendary-bassoon': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@lbnqduy180500/vigilant-octo-waddle': 1.0.0
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-send-zns@1.0.1:
+    resolution: {integrity: sha512-u/uyJbnjacd5QdS0k8M1kDOKj5ChBwPwD8WcQE2b0focg5n8trfRJNdybXH/yEi8e5xismBJj5M5nwXvo87LkQ==}
+    dependencies:
+      '@lbnqduy/cautious-happiness': 1.0.0
+      '@lbnqduy/congenial-waffle': 1.0.0
+      '@lbnqduy/curly-octo-rotary-phone': 1.0.0
+      '@lbnqduy/didactic-waffle': 1.0.0
+      '@lbnqduy/effective-system': 1.0.0
+      '@lbnqduy/fantastic-doodle': 1.0.1
+      '@lbnqduy/fluffy-meme': 1.0.0
+      '@lbnqduy/redesigned-tribble': 1.0.0
+      '@lbnqduy/refactored-fiesta': 1.0.0
+      '@lbnqduy/stunning-waffle': 1.0.0
+      '@lbnqduy180500/expert-meme': 1.0.0
+      '@lbnqduy180500/fluffy-couscous': 1.0.0
+      '@lbnqduy180500/legendary-bassoon': 1.0.0
+      '@lbnqduy180500/probable-rotary-phone': 1.0.0
+      '@lbnqduy180500/scaling-octo-happiness': 1.0.0
+      '@lbnqduy180500/stunning-enigma': 1.0.0
+      '@lbnqduy180500/super-duper-eureka': 1.0.0
+      '@lbnqduy180500/upgraded-octo-computing-machine': 1.0.0
+      '@lbnqduy180500/verbose-palm-tree': 1.0.0
+      '@lbnqduy180500/vigilant-octo-waddle': 1.0.0
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy1805/api-zalo@1.0.2:
+    resolution: {integrity: sha512-8ZzdekCDEhiotppzrRGydQjxDs8aTgtKJyY19XsngUKtuQ/jbQdAd2LHsCDIS0IqdFHpYGAy+N0UQKhJ3LAvSQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-ai@1.0.4:
+    resolution: {integrity: sha512-W0RROrcod8lGYvGrhAJE06RCy3ERFTAMSCUFv+4vgFOUq6FAgW+Ma6jvd4gTo7/81oofjrQxfTl7a+tK5RRfQA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-email@1.0.2:
+    resolution: {integrity: sha512-/OFizqswUxUjUSLUdRzEcxBVwtplVF26w/G6ldnO2TRkrI9Yk1s7IvdKosjKt2829a951LuPa8XxtAXNfog5Ug==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-fb@1.0.2:
+    resolution: {integrity: sha512-/Sm9hhc9nhsz4K8cYh0kc6Hgz7S32DPCFmUBMuvad4bar+zOiiQjZ8qs61y2WyupR6bbSRzitoojDTO3qe6klg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-gmail@1.0.1:
+    resolution: {integrity: sha512-rYUpW8ER83yzT5O/SimqKMOXJK4SpWgkJe60CqsQkdkDK3+7SULRnXvcUfXTiIBBGeJydoDNF9QBPLgjnIPYiw==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-skye@1.0.2:
+    resolution: {integrity: sha512-1P0BAH9CvqysbhXYw64XhRhrhP7OoG+rW8Gkn1OMiIwdkfNBOCp2NzTBMVFyUpj/05o5TNSEyC1x9YrLKOlfkg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-sms@1.0.3:
+    resolution: {integrity: sha512-VPTsSsrf+CM6NlmTYRXB0r8YXlvMr7+ipjG0sIZBi3XgsxeTKpfF5jf0zeC64ziitx+wi3657U+zbfNj10/dfA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-viber@1.0.2:
+    resolution: {integrity: sha512-KEDFzdnhi8QoH9Q44kYxzWyDY4apnHw/ouJ+t7exS5bzcY2RyqJYhP3L/iBraOUScfdnt5hodpSz4FUmPN9gWQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-send-skye': 1.0.1
+      '@nqduy1805/api-send-sms': 1.0.1
+      '@nqduy1805/api-send-viber': 1.0.1
+      '@nqduy1805/api-send-zns': 1.0.1
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-email': 1.0.2
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@nqduy180500/api-chat-zns': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-zalo@1.0.2:
+    resolution: {integrity: sha512-LZasSFuWHGs6PmVddYEL519rETS0/s7KL/fb2UlVS7XFpN2Eb0M+Nv3IAiWOLIcaqWp24xCV21DyQmwqieDtGQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@nqduy180500/api-chat-zns@1.0.2:
+    resolution: {integrity: sha512-i6nmBq5f2JucpfS9/yCFJ6F2MaQXsZDtT60l3v4ytqCfkd8FukWpRPbeeD47SDRkhmM4j2b7ho7JJ0Ysv9kMMQ==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.2
+      '@nqduy1805/api-gmail': 1.0.4
+      '@nqduy1805/api-gmail-ai': 1.0.6
+      '@nqduy1805/api-send-email': 1.0.6
+      '@nqduy1805/api-send-gmail': 1.0.6
+      '@nqduy1805/api-zalo': 1.0.2
+      '@nqduy180500/api-chat-ai': 1.0.4
+      '@nqduy180500/api-chat-fb': 1.0.2
+      '@nqduy180500/api-chat-gmail': 1.0.1
+      '@nqduy180500/api-chat-skye': 1.0.2
+      '@nqduy180500/api-chat-sms': 1.0.3
+      '@nqduy180500/api-chat-viber': 1.0.2
+      '@nqduy180500/api-chat-zalo': 1.0.2
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.2.0
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@oraliepham/api-chat-fanpage-facebook@1.2.4:
+    resolution: {integrity: sha512-ReA30eWTkSrKVMeV3XqFFnGMqDXkjXK3MPVQjVS3e5bPSp8zjiXF/POWayy6kbmW6tAU7U8PS279IN2dEits0w==}
+    dependencies:
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@oraliepham/api-facebooknew@1.0.7:
+    resolution: {integrity: sha512-wvzJxUTk5Qr6FT0MCKiWBldXbQ6xhyIsRnctYsuRj3YuAMAl0LXJcCVi8UGaiLCFIXJF4FO2vl41qWsO6KV85w==}
+    engines: {node: '>=20.0.0'}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /@scdb/crispy-tribble@1.0.0:
+    resolution: {integrity: sha512-mtC62eUnqmArl+GkJdim3LcTEJZH0HF77B+M0FVlHpAQM33PMg7arVq68KKWRdeKz5YB0MWuw8Ie5hUQHX9RUw==}
+    dependencies:
+      '@scdb/curly-robot': 1.0.0
+      '@scdb/didactic-spoon': 1.0.0
+      '@scdb/friendly-octo-couscous': 1.0.4
+      '@scdb/silver-octo-meme': 1.0.1
+      '@scdb/simple-http': 1.0.7
+      '@scdb/urban-octo-garbanzo': 1.0.0
+      domelementtype: 2.3.0
+      domhandler: 5.0.3
+      domutils: 3.1.0
+      entities: 4.5.0
+    dev: false
+
+  /@scdb/curly-robot@1.0.0:
+    resolution: {integrity: sha512-FMIsPrcGccGxFrJCtAd0M5ygU7EtTUjndChB+4mN8ReF48MvycWGa9AVF6RleIrJ3IuHbgJWh1qcifxQvLqU1A==}
+    dependencies:
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+    dev: false
+
+  /@scdb/didactic-spoon@1.0.0:
+    resolution: {integrity: sha512-yQLbmVr3zSWjKgOp3pkEC5ZWKoJpnUcmZlGqVmf5J0OaRh+aN4ob4DcQHiuampk/K3D6u/+9dXJD2Un3oiO93w==}
+    dependencies:
+      '@scdb/curly-robot': 1.0.0
+      '@scdb/friendly-octo-couscous': 1.0.4
+      '@scdb/silver-octo-meme': 1.0.1
+      '@scdb/simple-http': 1.0.7
+      '@scdb/urban-octo-garbanzo': 1.0.0
+      '@utilcode/simple-http': 1.0.1
+    dev: false
+
+  /@scdb/friendly-octo-couscous@1.0.4:
+    resolution: {integrity: sha512-sOICAzCorJP5CFTPFbPN6LG6IUShM8i+50/tXEOzqY2CTaHVaRUkjXVzeAg3tNX2qG1BBk8pIQgKNhrMod+G9w==}
+    dependencies:
+      '@scdb/curly-robot': 1.0.0
+      '@scdb/silver-octo-meme': 1.0.1
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+    dev: false
+
+  /@scdb/glowing-potato@1.0.0:
+    resolution: {integrity: sha512-1ux6N6BoGYVVWUTE4CIGU3o+i2ziN6fZ2qGt0kNM0WPO1lIhkb7wCdkRt3PG91UJVp3Y1tWu8nn+D6+DannLQA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      '@scdb/crispy-tribble': 1.0.0
+      '@scdb/curly-robot': 1.0.0
+      '@scdb/didactic-spoon': 1.0.0
+      '@scdb/friendly-octo-couscous': 1.0.4
+      '@scdb/silver-octo-meme': 1.0.1
+      '@scdb/simple-http': 1.0.7
+      '@scdb/urban-octo-garbanzo': 1.0.0
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      es-abstract: 1.23.3
+      es-constants: 1.0.1
+      es-errors: 1.3.0
+      es-object-atoms: 1.0.0
+      is-string: 1.0.7
+    dev: false
+
+  /@scdb/silver-octo-meme@1.0.1:
+    resolution: {integrity: sha512-cUJcZbA1RU+wCqjQTHMYS3EzSbwjK41bUdt/h+eY96QQ3sEIJumo96wskd2Gk1gZpI4AuVL5T1He+giDsdUbCA==}
+    dependencies:
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+    dev: false
+
+  /@scdb/simple-http@1.0.7:
+    resolution: {integrity: sha512-UxrlQw/rpIcWicEM1/c6ZMbPtVJ4X0IZzhVvyjNS+oN/dY904fGzuiq8J+xrVC6gDMNtMb/TdY+lULVkrP6xkw==}
+    engines: {node: '>=20.0.0'}
+    dependencies:
+      qs: 6.12.0
+    dev: false
+
+  /@scdb/urban-octo-garbanzo@1.0.0:
+    resolution: {integrity: sha512-fGde9dn7wan0etu+bOIFmQCJB4VwU68AeFJ8N3CFmK+qNfXlPD7Q8baySP+IdXXSpLLI0UxUJlm7ZrhT3xCUSA==}
+    dependencies:
+      '@scdb/curly-robot': 1.0.0
+      '@scdb/friendly-octo-couscous': 1.0.4
+      '@scdb/silver-octo-meme': 1.0.1
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+    dev: false
+
+  /@utilcode/simple-http@1.0.1:
+    resolution: {integrity: sha512-/N/jxdC/bKHPgj6AqjTZwOUEMdKqiKzBwAHR/1y6v0PpGvrcBQgIU//vMhID/ZXY9E9DTuBYFdLwW+mqT5J9GQ==}
+    engines: {node: '>=20.0.0'}
+    dependencies:
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      qs: 6.12.0
+    dev: false
+
+  /api-chat-fanpage-facebook@1.2.3:
+    resolution: {integrity: sha512-mMyev4brBuw9zlKAP1AwM7vxgWiykMNe16IjvzoQWHqln+tn7w3+xiLpzp1i5ZQqFIAOkOGt9FfMH6qUgyqvqA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /api-chatfb-test@1.0.8:
+    resolution: {integrity: sha512-i5j1IqKUICu23wRlMy3YJyRYGw0KSib9x0AU7mEvkFgnqeiFiFMPEeNbBLAEoXpcU0Iy1giFqikSVeR9Lli/jg==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /api-chatfb-test@1.2.0:
+    resolution: {integrity: sha512-YrfFjjUWDsmkI2BUBXdIN9ZFN43NaB0gvUTQbdC2fxTdZ9cnRZep4j/GLgT1vdiZA1o140MY0Cg/rzGiIc+c2A==}
+    dependencies:
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /api-chatfb@1.2.1:
+    resolution: {integrity: sha512-2Hpes1gD9/ClG+vzBL1cqSxPrlabc+uscDCOINWz07G5M9pApr4YYmMdkfYpbomdNApXjcBhDVb7vDHD4ANvpA==}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false
+
+  /api-facebooknew@1.0.7:
+    resolution: {integrity: sha512-XVYx0MEBy3dtigKIujW0ABH967RS/WocVOFRZMo+8kHmzVQIX69/hHkdoSTU87WdXS1+VruoLT6H3LWpTe0k4A==}
+    engines: {node: '>=20.0.0'}
+    dependencies:
+      '@libphamton/api-chatbot': 1.0.1
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/api-openai': 1.0.3
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/client-fb': github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5
+      '@libphamton/fb-group': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      '@scdb/simple-http': 1.0.7
+      '@utilcode/simple-http': 1.0.1
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+    dev: false
+
+  /array-buffer-byte-length@1.0.1:
+    resolution: {integrity: sha512-ahC5W1xgou+KTXix4sAO8Ki12Q+jf4i0+tmk3sC+zgcynshkHxzpXdImBehiUYKKKDwvfFiJl1tZt6ewscS1Mg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      is-array-buffer: 3.0.4
+    dev: false
+
+  /arraybuffer.prototype.slice@1.0.3:
+    resolution: {integrity: sha512-bMxMKAjg13EBSVscxTaYA4mRc5t1UAXa2kXiGTNfZ079HIWXEkKmkgFrh/nJqamaLSrXO5H4WFFkPEaLJWbs3A==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      array-buffer-byte-length: 1.0.1
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      es-abstract: 1.23.3
+      es-errors: 1.3.0
+      get-intrinsic: 1.2.4
+      is-array-buffer: 3.0.4
+      is-shared-array-buffer: 1.0.3
+    dev: false
+
+  /asynckit@0.4.0:
+    resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
+    dev: false
+
+  /available-typed-arrays@1.0.7:
+    resolution: {integrity: sha512-wvUjBtSGN7+7SjNpq/9M2Tg350UZD3q62IFZLbRAR1bSMlCo1ZaeW+BJ+D090e4hIIZLBcTDWe4Mh4jvUDajzQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      possible-typed-array-names: 1.0.0
+    dev: false
+
+  /axios@1.6.8:
+    resolution: {integrity: sha512-v/ZHtJDU39mDpyBoFVkETcd/uNdxrWRrg3bKpOKzXFA6Bvqopts6ALSMU3y6ijYxbw2B+wPrIv46egTzJXCLGQ==}
+    dependencies:
+      follow-redirects: 1.15.6
+      form-data: 4.0.0
+      proxy-from-env: 1.1.0
+    transitivePeerDependencies:
+      - debug
+    dev: false
+
+  /call-bind@1.0.7:
+    resolution: {integrity: sha512-GHTSNSYICQ7scH7sZ+M2rFopRoLh8t2bLSW6BbgrtLsahOIB5iyAVJf9GjWK3cYTDaMj4XdBpM1cA6pIS0Kv2w==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      es-define-property: 1.0.0
+      es-errors: 1.3.0
+      function-bind: 1.1.2
+      get-intrinsic: 1.2.4
+      set-function-length: 1.2.2
+    dev: false
+
+  /combined-stream@1.0.8:
+    resolution: {integrity: sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg==}
+    engines: {node: '>= 0.8'}
+    dependencies:
+      delayed-stream: 1.0.0
+    dev: false
+
+  /data-view-buffer@1.0.1:
+    resolution: {integrity: sha512-0lht7OugA5x3iJLOWFhWK/5ehONdprk0ISXqVFn/NFrDu+cuc8iADFrGQz5BnRK7LLU3JmkbXSxaqX+/mXYtUA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      es-errors: 1.3.0
+      is-data-view: 1.0.1
+    dev: false
+
+  /data-view-byte-length@1.0.1:
+    resolution: {integrity: sha512-4J7wRJD3ABAzr8wP+OcIcqq2dlUKp4DVflx++hs5h5ZKydWMI6/D/fAot+yh6g2tHh8fLFTvNOaVN357NvSrOQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      es-errors: 1.3.0
+      is-data-view: 1.0.1
+    dev: false
+
+  /data-view-byte-offset@1.0.0:
+    resolution: {integrity: sha512-t/Ygsytq+R995EJ5PZlD4Cu56sWa8InXySaViRzw9apusqsOO2bQP+SbYzAhR0pFKoB+43lYy8rWban9JSuXnA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      es-errors: 1.3.0
+      is-data-view: 1.0.1
+    dev: false
+
+  /define-data-property@1.1.4:
+    resolution: {integrity: sha512-rBMvIzlpA8v6E+SJZoo++HAYqsLrkg7MSfIinMPFhmkorw7X+dOXVJQs+QT69zGkzMyfDnIMN2Wid1+NbL3T+A==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      es-define-property: 1.0.0
+      es-errors: 1.3.0
+      gopd: 1.0.1
+    dev: false
+
+  /define-properties@1.2.1:
+    resolution: {integrity: sha512-8QmQKqEASLd5nx0U1B1okLElbUuuttJ/AnYmRXbbbGDWh6uS208EjD4Xqq/I9wK7u0v6O08XhTWnt5XtEbR6Dg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      define-data-property: 1.1.4
+      has-property-descriptors: 1.0.2
+      object-keys: 1.1.1
+    dev: false
+
+  /delayed-stream@1.0.0:
+    resolution: {integrity: sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==}
+    engines: {node: '>=0.4.0'}
+    dev: false
+
+  /dom-serializer@2.0.0:
+    resolution: {integrity: sha512-wIkAryiqt/nV5EQKqQpo3SToSOV9J0DnbJqwK7Wv/Trc92zIAYZ4FlMu+JPFW1DfGFt81ZTCGgDEabffXeLyJg==}
+    dependencies:
+      domelementtype: 2.3.0
+      domhandler: 5.0.3
+      entities: 4.5.0
+    dev: false
+
+  /domelementtype@2.3.0:
+    resolution: {integrity: sha512-OLETBj6w0OsagBwdXnPdN0cnMfF9opN69co+7ZrbfPGrdpPVNBUj02spi6B1N7wChLQiPn4CSH/zJvXw56gmHw==}
+    dev: false
+
+  /domhandler@5.0.3:
+    resolution: {integrity: sha512-cgwlv/1iFQiFnU96XXgROh8xTeetsnJiDsTc7TYCLFd9+/WNkIqPTxiM/8pSd8VIrhXGTf1Ny1q1hquVqDJB5w==}
+    engines: {node: '>= 4'}
+    dependencies:
+      domelementtype: 2.3.0
+    dev: false
+
+  /domutils@3.1.0:
+    resolution: {integrity: sha512-H78uMmQtI2AhgDJjWeQmHwJJ2bLPD3GMmO7Zja/ZZh84wkm+4ut+IUnUdRa8uCGX88DiVx1j6FRe1XfxEgjEZA==}
+    dependencies:
+      dom-serializer: 2.0.0
+      domelementtype: 2.3.0
+      domhandler: 5.0.3
+    dev: false
+
+  /entities@4.5.0:
+    resolution: {integrity: sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw==}
+    engines: {node: '>=0.12'}
+    dev: false
+
+  /es-abstract@1.23.3:
+    resolution: {integrity: sha512-e+HfNH61Bj1X9/jLc5v1owaLYuHdeHHSQlkhCBiTK8rBvKaULl/beGMxwrMXjpYrv4pz22BlY570vVePA2ho4A==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      array-buffer-byte-length: 1.0.1
+      arraybuffer.prototype.slice: 1.0.3
+      available-typed-arrays: 1.0.7
+      call-bind: 1.0.7
+      data-view-buffer: 1.0.1
+      data-view-byte-length: 1.0.1
+      data-view-byte-offset: 1.0.0
+      es-define-property: 1.0.0
+      es-errors: 1.3.0
+      es-object-atoms: 1.0.0
+      es-set-tostringtag: 2.0.3
+      es-to-primitive: 1.2.1
+      function.prototype.name: 1.1.6
+      get-intrinsic: 1.2.4
+      get-symbol-description: 1.0.2
+      globalthis: 1.0.3
+      gopd: 1.0.1
+      has-property-descriptors: 1.0.2
+      has-proto: 1.0.3
+      has-symbols: 1.0.3
+      hasown: 2.0.2
+      internal-slot: 1.0.7
+      is-array-buffer: 3.0.4
+      is-callable: 1.2.7
+      is-data-view: 1.0.1
+      is-negative-zero: 2.0.3
+      is-regex: 1.1.4
+      is-shared-array-buffer: 1.0.3
+      is-string: 1.0.7
+      is-typed-array: 1.1.13
+      is-weakref: 1.0.2
+      object-inspect: 1.13.1
+      object-keys: 1.1.1
+      object.assign: 4.1.5
+      regexp.prototype.flags: 1.5.2
+      safe-array-concat: 1.1.2
+      safe-regex-test: 1.0.3
+      string.prototype.trim: 1.2.9
+      string.prototype.trimend: 1.0.8
+      string.prototype.trimstart: 1.0.8
+      typed-array-buffer: 1.0.2
+      typed-array-byte-length: 1.0.1
+      typed-array-byte-offset: 1.0.2
+      typed-array-length: 1.0.6
+      unbox-primitive: 1.0.2
+      which-typed-array: 1.1.15
+    dev: false
+
+  /es-constants@1.0.1:
+    resolution: {integrity: sha512-Vhkaj+JjwhdWdg5zG3s75U92fz5ppOnxb3HR9ZMTa+Uw+h03SQbr/AAdlGTKxXhBmN6Pq/hIgPogTqpJX29W5w==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+    dev: false
+
+  /es-define-property@1.0.0:
+    resolution: {integrity: sha512-jxayLKShrEqqzJ0eumQbVhTYQM27CfT1T35+gCgDFoL82JLsXqTJ76zv6A0YLOgEnLUMvLzsDsGIrl8NFpT2gQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      get-intrinsic: 1.2.4
+    dev: false
+
+  /es-errors@1.3.0:
+    resolution: {integrity: sha512-Zf5H2Kxt2xjTvbJvP2ZWLEICxA6j+hAmMzIlypy4xcBg1vKVnx89Wy0GbS+kf5cwCVFFzdCFh2XSCFNULS6csw==}
+    engines: {node: '>= 0.4'}
+    dev: false
+
+  /es-object-atoms@1.0.0:
+    resolution: {integrity: sha512-MZ4iQ6JwHOBQjahnjwaC1ZtIBH+2ohjamzAO3oaHcXYup7qxjF2fixyH+Q71voWHeOkI2q/TnJao/KfXYIZWbw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      es-errors: 1.3.0
+    dev: false
+
+  /es-set-tostringtag@2.0.3:
+    resolution: {integrity: sha512-3T8uNMC3OQTHkFUsFq8r/BwAXLHvU/9O9mE0fBc/MY5iq/8H7ncvO947LmYA6ldWw9Uh8Yhf25zu6n7nML5QWQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      get-intrinsic: 1.2.4
+      has-tostringtag: 1.0.2
+      hasown: 2.0.2
+    dev: false
+
+  /es-to-primitive@1.2.1:
+    resolution: {integrity: sha512-QCOllgZJtaUo9miYBcLChTUaHNjJF3PYs1VidD7AwiEj1kYxKeQTctLAezAOH5ZKRH0g2IgPn6KwB4IT8iRpvA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      is-callable: 1.2.7
+      is-date-object: 1.0.5
+      is-symbol: 1.0.4
+    dev: false
+
+  /follow-redirects@1.15.6:
+    resolution: {integrity: sha512-wWN62YITEaOpSK584EZXJafH1AGpO8RVgElfkuXbTOrPX4fIfOyEpW/CsiNd8JdYrAoOvafRTOEnvsO++qCqFA==}
+    engines: {node: '>=4.0'}
+    peerDependencies:
+      debug: '*'
+    peerDependenciesMeta:
+      debug:
+        optional: true
+    dev: false
+
+  /for-each@0.3.3:
+    resolution: {integrity: sha512-jqYfLp7mo9vIyQf8ykW2v7A+2N4QjeCeI5+Dz9XraiO1ign81wjiH7Fb9vSOWvQfNtmSa4H2RoQTrrXivdUZmw==}
+    dependencies:
+      is-callable: 1.2.7
+    dev: false
+
+  /form-data@4.0.0:
+    resolution: {integrity: sha512-ETEklSGi5t0QMZuiXoA/Q6vcnxcLQP5vdugSpuAyi6SVGi2clPPp+xgEhuMaHC+zGgn31Kd235W35f7Hykkaww==}
+    engines: {node: '>= 6'}
+    dependencies:
+      asynckit: 0.4.0
+      combined-stream: 1.0.8
+      mime-types: 2.1.35
+    dev: false
+
+  /function-bind@1.1.2:
+    resolution: {integrity: sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==}
+    dev: false
+
+  /function.prototype.name@1.1.6:
+    resolution: {integrity: sha512-Z5kx79swU5P27WEayXM1tBi5Ze/lbIyiNgU3qyXUOf9b2rgXYyF9Dy9Cx+IQv/Lc8WCG6L82zwUPpSS9hGehIg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      es-abstract: 1.23.3
+      functions-have-names: 1.2.3
+    dev: false
+
+  /functions-have-names@1.2.3:
+    resolution: {integrity: sha512-xckBUXyTIqT97tq2x2AMb+g163b5JFysYk0x4qxNFwbfQkmNZoiRHb6sPzI9/QV33WeuvVYBUIiD4NzNIyqaRQ==}
+    dev: false
+
+  /get-intrinsic@1.2.4:
+    resolution: {integrity: sha512-5uYhsJH8VJBTv7oslg4BznJYhDoRI6waYCxMmCdnTrcCrHA/fCFKoTFz2JKKE0HdDFUF7/oQuhzumXJK7paBRQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      es-errors: 1.3.0
+      function-bind: 1.1.2
+      has-proto: 1.0.3
+      has-symbols: 1.0.3
+      hasown: 2.0.2
+    dev: false
+
+  /get-symbol-description@1.0.2:
+    resolution: {integrity: sha512-g0QYk1dZBxGwk+Ngc+ltRH2IBp2f7zBkBMBJZCDerh6EhlhSR6+9irMCuT/09zD6qkarHUSn529sK/yL4S27mg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      es-errors: 1.3.0
+      get-intrinsic: 1.2.4
+    dev: false
+
+  /globalthis@1.0.3:
+    resolution: {integrity: sha512-sFdI5LyBiNTHjRd7cGPWapiHWMOXKyuBNX/cWJ3NfzrZQVa8GI/8cofCl74AOVqq9W5kNmguTIzJ/1s2gyI9wA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      define-properties: 1.2.1
+    dev: false
+
+  /gopd@1.0.1:
+    resolution: {integrity: sha512-d65bNlIadxvpb/A2abVdlqKqV563juRnZ1Wtk6s1sIR8uNsXR70xqIzVqxVf1eTqDunwT2MkczEeaezCKTZhwA==}
+    dependencies:
+      get-intrinsic: 1.2.4
+    dev: false
+
+  /has-bigints@1.0.2:
+    resolution: {integrity: sha512-tSvCKtBr9lkF0Ex0aQiP9N+OpV4zi2r/Nee5VkRDbaqv35RLYMzbwQfFSZZH0kR+Rd6302UJZ2p/bJCEoR3VoQ==}
+    dev: false
+
+  /has-property-descriptors@1.0.2:
+    resolution: {integrity: sha512-55JNKuIW+vq4Ke1BjOTjM2YctQIvCT7GFzHwmfZPGo5wnrgkid0YQtnAleFSqumZm4az3n2BS+erby5ipJdgrg==}
+    dependencies:
+      es-define-property: 1.0.0
+    dev: false
+
+  /has-proto@1.0.3:
+    resolution: {integrity: sha512-SJ1amZAJUiZS+PhsVLf5tGydlaVB8EdFpaSO4gmiUKUOxk8qzn5AIy4ZeJUmh22znIdk/uMAUT2pl3FxzVUH+Q==}
+    engines: {node: '>= 0.4'}
+    dev: false
+
+  /has-symbols@1.0.3:
+    resolution: {integrity: sha512-l3LCuF6MgDNwTDKkdYGEihYjt5pRPbEg46rtlmnSPlUbgmB8LOIrKJbYYFBSbnPaJexMKtiPO8hmeRjRz2Td+A==}
+    engines: {node: '>= 0.4'}
+    dev: false
+
+  /has-tostringtag@1.0.2:
+    resolution: {integrity: sha512-NqADB8VjPFLM2V0VvHUewwwsw0ZWBaIdgo+ieHtK3hasLz4qeCRjYcqfB6AQrBggRKppKF8L52/VqdVsO47Dlw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      has-symbols: 1.0.3
+    dev: false
+
+  /hasown@2.0.2:
+    resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      function-bind: 1.1.2
+    dev: false
+
+  /internal-slot@1.0.7:
+    resolution: {integrity: sha512-NGnrKwXzSms2qUUih/ILZ5JBqNTSa1+ZmP6flaIp6KmSElgE9qdndzS3cqjrDovwFdmwsGsLdeFgB6suw+1e9g==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      es-errors: 1.3.0
+      hasown: 2.0.2
+      side-channel: 1.0.6
+    dev: false
+
+  /is-array-buffer@3.0.4:
+    resolution: {integrity: sha512-wcjaerHw0ydZwfhiKbXJWLDY8A7yV7KhjQOpb83hGgGfId/aQa4TOvwyzn2PuswW2gPCYEL/nEAiSVpdOj1lXw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      get-intrinsic: 1.2.4
+    dev: false
+
+  /is-bigint@1.0.4:
+    resolution: {integrity: sha512-zB9CruMamjym81i2JZ3UMn54PKGsQzsJeo6xvN3HJJ4CAsQNB6iRutp2To77OfCNuoxspsIhzaPoO1zyCEhFOg==}
+    dependencies:
+      has-bigints: 1.0.2
+    dev: false
+
+  /is-boolean-object@1.1.2:
+    resolution: {integrity: sha512-gDYaKHJmnj4aWxyj6YHyXVpdQawtVLHU5cb+eztPGczf6cjuTdwve5ZIEfgXqH4e57An1D1AKf8CZ3kYrQRqYA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      has-tostringtag: 1.0.2
+    dev: false
+
+  /is-callable@1.2.7:
+    resolution: {integrity: sha512-1BC0BVFhS/p0qtw6enp8e+8OD0UrK0oFLztSjNzhcKA3WDuJxxAPXzPuPtKkjEY9UUoEWlX/8fgKeu2S8i9JTA==}
+    engines: {node: '>= 0.4'}
+    dev: false
+
+  /is-data-view@1.0.1:
+    resolution: {integrity: sha512-AHkaJrsUVW6wq6JS8y3JnM/GJF/9cf+k20+iDzlSaJrinEo5+7vRiteOSwBhHRiAyQATN1AmY4hwzxJKPmYf+w==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      is-typed-array: 1.1.13
+    dev: false
+
+  /is-date-object@1.0.5:
+    resolution: {integrity: sha512-9YQaSxsAiSwcvS33MBk3wTCVnWK+HhF8VZR2jRxehM16QcVOdHqPn4VPHmRK4lSr38n9JriurInLcP90xsYNfQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      has-tostringtag: 1.0.2
+    dev: false
+
+  /is-negative-zero@2.0.3:
+    resolution: {integrity: sha512-5KoIu2Ngpyek75jXodFvnafB6DJgr3u8uuK0LEZJjrU19DrMD3EVERaR8sjz8CCGgpZvxPl9SuE1GMVPFHx1mw==}
+    engines: {node: '>= 0.4'}
+    dev: false
+
+  /is-number-object@1.0.7:
+    resolution: {integrity: sha512-k1U0IRzLMo7ZlYIfzRu23Oh6MiIFasgpb9X76eqfFZAqwH44UI4KTBvBYIZ1dSL9ZzChTB9ShHfLkR4pdW5krQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      has-tostringtag: 1.0.2
+    dev: false
+
+  /is-regex@1.1.4:
+    resolution: {integrity: sha512-kvRdxDsxZjhzUX07ZnLydzS1TU/TJlTUHHY4YLL87e37oUA49DfkLqgy+VjFocowy29cKvcSiu+kIv728jTTVg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      has-tostringtag: 1.0.2
+    dev: false
+
+  /is-shared-array-buffer@1.0.3:
+    resolution: {integrity: sha512-nA2hv5XIhLR3uVzDDfCIknerhx8XUKnstuOERPNNIinXG7v9u+ohXF67vxm4TPTEPU6lm61ZkwP3c9PCB97rhg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+    dev: false
+
+  /is-string@1.0.7:
+    resolution: {integrity: sha512-tE2UXzivje6ofPW7l23cjDOMa09gb7xlAqG6jG5ej6uPV32TlWP3NKPigtaGeHNu9fohccRYvIiZMfOOnOYUtg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      has-tostringtag: 1.0.2
+    dev: false
+
+  /is-symbol@1.0.4:
+    resolution: {integrity: sha512-C/CPBqKWnvdcxqIARxyOh4v1UUEOCHpgDa0WYgpKDFMszcrPcffg5uhwSgPCLD2WWxmq6isisz87tzT01tuGhg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      has-symbols: 1.0.3
+    dev: false
+
+  /is-typed-array@1.1.13:
+    resolution: {integrity: sha512-uZ25/bUAlUY5fR4OKT4rZQEBrzQWYV9ZJYGGsUmEJ6thodVJ1HX64ePQ6Z0qPWP+m+Uq6e9UugrE38jeYsDSMw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      which-typed-array: 1.1.15
+    dev: false
+
+  /is-weakref@1.0.2:
+    resolution: {integrity: sha512-qctsuLZmIQ0+vSSMfoVvyFe2+GSEvnmZ2ezTup1SBse9+twCCeial6EEi3Nc2KFcf6+qz2FBPnjXsk8xhKSaPQ==}
+    dependencies:
+      call-bind: 1.0.7
+    dev: false
+
+  /isarray@2.0.5:
+    resolution: {integrity: sha512-xHjhDr3cNBK0BzdUJSPXZntQUx/mwMS5Rw4A7lPJ90XGAO6ISP/ePDNuo0vhqOZU+UD5JoodwCAAoZQd3FeAKw==}
+    dev: false
+
+  /mime-db@1.52.0:
+    resolution: {integrity: sha512-sPU4uV7dYlvtWJxwwxHD0PuihVNiE7TyAbQ5SWxDCB9mUYvOgroQOwYQQOKPJ8CIbE+1ETVlOoK1UC2nU3gYvg==}
+    engines: {node: '>= 0.6'}
+    dev: false
+
+  /mime-types@2.1.35:
+    resolution: {integrity: sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==}
+    engines: {node: '>= 0.6'}
+    dependencies:
+      mime-db: 1.52.0
+    dev: false
+
+  /object-inspect@1.13.1:
+    resolution: {integrity: sha512-5qoj1RUiKOMsCCNLV1CBiPYE10sziTsnmNxkAI/rZhiD63CF7IqdFGC/XzjWjpSgLf0LxXX3bDFIh0E18f6UhQ==}
+    dev: false
+
+  /object-keys@1.1.1:
+    resolution: {integrity: sha512-NuAESUOUMrlIXOfHKzD6bpPu3tYt3xvjNdRIQ+FeT0lNb4K8WR70CaDxhuNguS2XG+GjkyMwOzsN5ZktImfhLA==}
+    engines: {node: '>= 0.4'}
+    dev: false
+
+  /object.assign@4.1.5:
+    resolution: {integrity: sha512-byy+U7gp+FVwmyzKPYhW2h5l3crpmGsxl7X2s8y43IgxvG4g3QZ6CffDtsNQy1WsmZpQbO+ybo0AlW7TY6DcBQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      has-symbols: 1.0.3
+      object-keys: 1.1.1
+    dev: false
+
+  /possible-typed-array-names@1.0.0:
+    resolution: {integrity: sha512-d7Uw+eZoloe0EHDIYoe+bQ5WXnGMOpmiZFTuMWCwpjzzkL2nTjcKiAk4hh8TjnGye2TwWOk3UXucZ+3rbmBa8Q==}
+    engines: {node: '>= 0.4'}
+    dev: false
+
+  /proxy-from-env@1.1.0:
+    resolution: {integrity: sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==}
+    dev: false
+
+  /qs@6.12.0:
+    resolution: {integrity: sha512-trVZiI6RMOkO476zLGaBIzszOdFPnCCXHPG9kn0yuS1uz6xdVxPfZdB3vUig9pxPFDM9BRAgz/YUIVQ1/vuiUg==}
+    engines: {node: '>=0.6'}
+    dependencies:
+      side-channel: 1.0.6
+    dev: false
+
+  /regexp.prototype.flags@1.5.2:
+    resolution: {integrity: sha512-NcDiDkTLuPR+++OCKB0nWafEmhg/Da8aUPLPMQbK+bxKKCm1/S5he+AqYa4PlMCVBalb4/yxIRub6qkEx5yJbw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      es-errors: 1.3.0
+      set-function-name: 2.0.2
+    dev: false
+
+  /safe-array-concat@1.1.2:
+    resolution: {integrity: sha512-vj6RsCsWBCf19jIeHEfkRMw8DPiBb+DMXklQ/1SGDHOMlHdPUkZXFQ2YdplS23zESTijAcurb1aSgJA3AgMu1Q==}
+    engines: {node: '>=0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      get-intrinsic: 1.2.4
+      has-symbols: 1.0.3
+      isarray: 2.0.5
+    dev: false
+
+  /safe-regex-test@1.0.3:
+    resolution: {integrity: sha512-CdASjNJPvRa7roO6Ra/gLYBTzYzzPyyBXxIMdGW3USQLyjWEls2RgW5UBTXaQVp+OrpeCK3bLem8smtmheoRuw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      es-errors: 1.3.0
+      is-regex: 1.1.4
+    dev: false
+
+  /set-function-length@1.2.2:
+    resolution: {integrity: sha512-pgRc4hJ4/sNjWCSS9AmnS40x3bNMDTknHgL5UaMBTMyJnU90EgWh1Rz+MC9eFu4BuN/UwZjKQuY/1v3rM7HMfg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      define-data-property: 1.1.4
+      es-errors: 1.3.0
+      function-bind: 1.1.2
+      get-intrinsic: 1.2.4
+      gopd: 1.0.1
+      has-property-descriptors: 1.0.2
+    dev: false
+
+  /set-function-name@2.0.2:
+    resolution: {integrity: sha512-7PGFlmtwsEADb0WYyvCMa1t+yke6daIG4Wirafur5kcf+MhUnPms1UeR0CKQdTZD81yESwMHbtn+TR+dMviakQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      define-data-property: 1.1.4
+      es-errors: 1.3.0
+      functions-have-names: 1.2.3
+      has-property-descriptors: 1.0.2
+    dev: false
+
+  /side-channel@1.0.6:
+    resolution: {integrity: sha512-fDW/EZ6Q9RiO8eFG8Hj+7u/oW+XrPTIChwCOM2+th2A6OblDtYYIpve9m+KvI9Z4C9qSEXlaGR6bTEYHReuglA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      es-errors: 1.3.0
+      get-intrinsic: 1.2.4
+      object-inspect: 1.13.1
+    dev: false
+
+  /string.prototype.trim@1.2.9:
+    resolution: {integrity: sha512-klHuCNxiMZ8MlsOihJhJEBJAiMVqU3Z2nEXWfWnIqjN0gEFS9J9+IxKozWWtQGcgoa1WUZzLjKPTr4ZHNFTFxw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      es-abstract: 1.23.3
+      es-object-atoms: 1.0.0
+    dev: false
+
+  /string.prototype.trimend@1.0.8:
+    resolution: {integrity: sha512-p73uL5VCHCO2BZZ6krwwQE3kCzM7NKmis8S//xEC6fQonchbum4eP6kR4DLEjQFO3Wnj3Fuo8NM0kOSjVdHjZQ==}
+    dependencies:
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      es-object-atoms: 1.0.0
+    dev: false
+
+  /string.prototype.trimstart@1.0.8:
+    resolution: {integrity: sha512-UXSH262CSZY1tfu3G3Secr6uGLCFVPMhIqHjlgCUtCCcgihYc/xKs9djMTMUOb2j1mVSeU8EU6NWc/iQKU6Gfg==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      define-properties: 1.2.1
+      es-object-atoms: 1.0.0
+    dev: false
+
+  /typed-array-buffer@1.0.2:
+    resolution: {integrity: sha512-gEymJYKZtKXzzBzM4jqa9w6Q1Jjm7x2d+sh19AdsD4wqnMPDYyvwpsIc2Q/835kHuo3BEQ7CjelGhfTsoBb2MQ==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      es-errors: 1.3.0
+      is-typed-array: 1.1.13
+    dev: false
+
+  /typed-array-byte-length@1.0.1:
+    resolution: {integrity: sha512-3iMJ9q0ao7WE9tWcaYKIptkNBuOIcZCCT0d4MRvuuH88fEoEH62IuQe0OtraD3ebQEoTRk8XCBoknUNc1Y67pw==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      for-each: 0.3.3
+      gopd: 1.0.1
+      has-proto: 1.0.3
+      is-typed-array: 1.1.13
+    dev: false
+
+  /typed-array-byte-offset@1.0.2:
+    resolution: {integrity: sha512-Ous0vodHa56FviZucS2E63zkgtgrACj7omjwd/8lTEMEPFFyjfixMZ1ZXenpgCFBBt4EC1J2XsyVS2gkG0eTFA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      available-typed-arrays: 1.0.7
+      call-bind: 1.0.7
+      for-each: 0.3.3
+      gopd: 1.0.1
+      has-proto: 1.0.3
+      is-typed-array: 1.1.13
+    dev: false
+
+  /typed-array-length@1.0.6:
+    resolution: {integrity: sha512-/OxDN6OtAk5KBpGb28T+HZc2M+ADtvRxXrKKbUwtsLgdoxgX13hyy7ek6bFRl5+aBs2yZzB0c4CnQfAtVypW/g==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      call-bind: 1.0.7
+      for-each: 0.3.3
+      gopd: 1.0.1
+      has-proto: 1.0.3
+      is-typed-array: 1.1.13
+      possible-typed-array-names: 1.0.0
+    dev: false
+
+  /unbox-primitive@1.0.2:
+    resolution: {integrity: sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw==}
+    dependencies:
+      call-bind: 1.0.7
+      has-bigints: 1.0.2
+      has-symbols: 1.0.3
+      which-boxed-primitive: 1.0.2
+    dev: false
+
+  /which-boxed-primitive@1.0.2:
+    resolution: {integrity: sha512-bwZdv0AKLpplFY2KZRX6TvyuN7ojjr7lwkg6ml0roIy9YeuSr7JS372qlNW18UQYzgYK9ziGcerWqZOmEn9VNg==}
+    dependencies:
+      is-bigint: 1.0.4
+      is-boolean-object: 1.1.2
+      is-number-object: 1.0.7
+      is-string: 1.0.7
+      is-symbol: 1.0.4
+    dev: false
+
+  /which-typed-array@1.1.15:
+    resolution: {integrity: sha512-oV0jmFtUky6CXfkqehVvBP/LSWJ2sy4vWMioiENyJLePrBO/yKyV9OyJySfAKosh+RYkIl5zJCNZ8/4JncrpdA==}
+    engines: {node: '>= 0.4'}
+    dependencies:
+      available-typed-arrays: 1.0.7
+      call-bind: 1.0.7
+      for-each: 0.3.3
+      gopd: 1.0.1
+      has-tostringtag: 1.0.2
+    dev: false
+
+  github.com/libphamton/client-fb/ff0a4293599bbd463915cd77f98b77eabbfe27b5:
+    resolution: {tarball: https://codeload.github.com/libphamton/client-fb/tar.gz/ff0a4293599bbd463915cd77f98b77eabbfe27b5}
+    name: '@libphamton/chatfanpage'
+    version: 1.0.2
+    dependencies:
+      '@libphamton/api-client-x': 1.2.1
+      '@libphamton/chatfanpage': 1.0.1
+      '@libphamton/fb-group': 1.0.1
+      '@oraliepham/api-chat-fanpage-facebook': 1.2.4
+      '@oraliepham/api-facebooknew': 1.0.7
+      api-chat-fanpage-facebook: 1.2.3
+      api-chatfb: 1.2.1
+      api-chatfb-test: 1.0.8
+      api-facebooknew: 1.0.7
+    dev: false

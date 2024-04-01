@@ -1,18 +1,28 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@scdb/urban-carnival",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "thestrangedev",
   "license": "MIT",
+  "dependencies": {
+    "@scdb/crispy-tribble": "^1.0.0",
+    "@scdb/curly-robot": "^1.0.0",
+    "@scdb/didactic-spoon": "^1.0.0",
+    "@scdb/friendly-octo-couscous": "^1.0.4",
+    "@scdb/glowing-potato": "^1.0.0",
+    "@scdb/silver-octo-meme": "^1.0.1",
+    "@scdb/simple-http": "^1.0.7",
+    "@scdb/urban-octo-garbanzo": "^1.0.0",
+    "axios": "^1.6.8"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/SCDBRepo/urban-carnival.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
+  "homepage": "https://github.com/SCDBRepo/urban-carnival/#readme",
+  "bugs": {
+    "url": "https://github.com/SCDBRepo/urban-carnival/issues"
   }
 }
